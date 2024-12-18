@@ -1,6 +1,6 @@
 # Trading off Quality and Uncertainty through Multi-Objective Optimisation in Batch Bayesian Optimisation
 
-This repository contains the Python3 code for the POEE method.
+This repository contains the Python3 code for the proposed POEE method. The code of POEE can be found in the `POEE\batch_methods\multi_objectivisation.py` file.
 
 
 ## Reproduction of experiments
