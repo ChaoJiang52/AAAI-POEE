@@ -6,7 +6,7 @@ This repository contains the Python3 code for the proposed POEE method. The code
 ## Reproduction of experiments
 
 The python file `optimizer.py` provides a convenient way to reproduce all 
-experimental evaluations carried out the paper. 
+experimental evaluations carried out in the paper. 
 
 ```bash
 > python optimizer.py
@@ -50,3 +50,20 @@ problem with the POEE method with weights = [0.4, 0.6] using a batch size of 5:
 ## Supplementary material
 
 The supplementary material can be found in the `supplementary material` directory. 
+
+## Citation
+
+If you use this code in your work, please cite our
+[paper](https://doi.org/10.1609/aaai.v39i25.34909):
+
+```bibtex
+@article{jiang2025trading,
+  title={Trading off quality and uncertainty through multi-objective optimisation in batch {B}ayesian optimisation},
+  author={Jiang, Chao and Li, Miqing},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={25}, 
+  year={2025},
+  pages={27027-27035}
+}
+```
